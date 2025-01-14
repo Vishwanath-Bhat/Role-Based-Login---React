@@ -4,7 +4,7 @@
 
 1. Clone the project repository into your desired directory:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vishwanath-Bhat/Role-Based-Login---React.git
    cd <project-directory>
    ```
 
